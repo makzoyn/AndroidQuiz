@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidFirstLab</string>
+    <string name="denyBtn">Deny</string>
+    <string name="allowBtn">Allow</string>
+    <string name="questionText">Question</string>
+    <string name="prev_btn">prev button</string>
+    <string name="next_btn">next button</string>
+    <string name="question_animals">Crocodile have a 32 tooth?</string>
+    <string name="question_country">Moscow capital of Russia?</string>
+    <string name="question_math">3 times 3 times 3 its 9?</string>
+    <string name="question_it">Kotlin programming language?</string>
+    <string name="question_oceans">There are 5 oceans on earth??</string>
+    <string name="correct_toast">Correct guess!</string>
+    <string name="incorrect_toast">Incorrect guess!</string>
+    <string name="cheat_text">Cheat text</string>
+    <string name="cheat_button">Show answer</string>
+    <string name="button_answer">Answer</string>
+
+</resources>
